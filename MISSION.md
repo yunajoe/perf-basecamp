@@ -31,3 +31,17 @@
 4. Seo 83
 
 ```
+
+2. Home 페이지에서 불러오는 스크립트 리소스 크기
+
+![alt text](image-2.png)
+
+3. Hero 이미지 크기
+
+![alt text](image-3.png)
+
+4. 프랑스 파리에서 Fast 3G 환경으로 접속했을 때 Home 두 번째 이후 로드시 LCP < 1.2s
+   WebPageTest에서 Paris - EC2 Chrome CPU 6x slowdown Network Fast 3G 환경 기준으로 확인
+   (https://www.webpagetest.sk/)
+
+5. Chrome CPU 6x slowdown Network Fast 3G 환경에서 화면 버벅임 최소화
